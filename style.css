@@ -1,0 +1,35 @@
+body {
+    background-color: #f8f9fa;
+  }
+  .container {
+    background: #ffffff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+  }
+  .textarea-code {
+    width: 100%;
+    height: 300px;
+    font-family: monospace;
+    background: #202020;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    color: white;
+  }
+  .nav-tabs .nav-link {
+    border-radius: 0;
+    border-color: transparent;
+  }
+  .nav-tabs .nav-link.active {
+    color: #495057;
+    background-color: #e9ecef;
+    border-color: #dee2e6 #dee2e6 #fff;
+  }
